@@ -1,0 +1,33 @@
+body{
+	padding-left:300px;
+	padding-right:300px;
+	padding-top:50px;
+	padding-bottom:100px;
+	
+}
+
+#button{
+	margin-left:auto;
+	
+}
+h2{
+text-align:center;}
+	
+div.navbarNav{
+	color:#0A3273;
+}
+
+h1{
+	text-align:center;
+}
+
+div.form-group{
+	width:400px;
+}
+
+div.coordonnees{
+	text-align:left-side;
+}
+
+
+	
